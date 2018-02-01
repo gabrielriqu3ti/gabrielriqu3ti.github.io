@@ -9,6 +9,7 @@ h1 {
 a {
   color: #f00;
 }
+<<<<<<< HEAD
 h2 ~ p {
   font-size: 0.8em;
   font-style: italic;
@@ -16,6 +17,9 @@ h2 ~ p {
   max-width: 70%;
   text-align: center;
 }
+=======
+
+>>>>>>> 390bbc998af4e709d2f181a1a3bf66bef96c0131
 /* HEADER STYLES */
 .header-nav {
   float: right;
@@ -25,10 +29,13 @@ h2 ~ p {
   display: inline-block;
   margin-left: 1em;
 }
+<<<<<<< HEAD
 .header-nav > li + li {
   border-left: 1px solid rgba(0, 0, 0, 0.3);
   padding-left: 1em;
 }
+=======
+>>>>>>> 390bbc998af4e709d2f181a1a3bf66bef96c0131
 .header-nav a {
   color: #000;
   font-size: 0.8rem;
@@ -36,6 +43,7 @@ h2 ~ p {
   text-decoration: none;
   text-transform: uppercase;
 }
+<<<<<<< HEAD
 .header-nav a:hover,
 .header-nav a:active {
   color: #ed6e2f;
@@ -50,6 +58,8 @@ h2 ~ p {
 .header-logo:active {
   opacity: 0.5;
 }
+=======
+>>>>>>> 390bbc998af4e709d2f181a1a3bf66bef96c0131
 
 /* HERO STYLES */
 .full-hero {
@@ -75,10 +85,13 @@ h2 ~ p {
   vertical-align: middle;
   width: 2.5em;
 }
+<<<<<<< HEAD
 .social-link:hover,
 .social-link:active {
   background-color: rgb(200, 115, 40);
 }
+=======
+>>>>>>> 390bbc998af4e709d2f181a1a3bf66bef96c0131
 .social-list {
   list-style: none;
   padding: 0;
